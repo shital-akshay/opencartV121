@@ -1,0 +1,234 @@
+2025-04-28 09:47:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 09:52:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 09:54:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 09:54:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 09:56:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\CrossBrowserTesting.xml
+
+2025-04-28 09:56:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\CrossBrowserTesting.xml
+
+2025-04-28 09:58:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:02:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:03:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:04:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\CrossBrowserTesting.xml
+
+2025-04-28 10:04:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\CrossBrowserTesting.xml
+
+2025-04-28 10:06:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:06:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\CrossBrowserTesting.xml
+
+2025-04-28 10:07:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:09:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:13:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:28:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\master.xml
+
+2025-04-28 10:28:35 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 10:28:35 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 10:28:36 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 10:28:37 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 10:28:39 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 10:29:03 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 10:29:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\CrossBrowserTesting.xml
+
+2025-04-28 10:29:57 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 10:30:01 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 10:30:02 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 10:30:04 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 10:30:04 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 10:30:04 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 10:30:04 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 10:30:05 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 10:30:05 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 10:30:05 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 10:30:05 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 10:30:07 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 10:30:09 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 12:21:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grouping.xml
+
+2025-04-28 12:21:51 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 12:21:51 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 12:21:52 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 12:21:52 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 12:21:53 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 12:21:53 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 12:21:53 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 12:21:54 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 12:21:54 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 12:21:54 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 12:21:55 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 12:21:57 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 12:22:02 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 18:55:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 18:55:16 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 18:55:16 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 18:55:17 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 18:55:18 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 18:55:19 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 18:55:21 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 18:55:22 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:02:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 19:02:44 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:02:44 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 19:02:44 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 19:02:45 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 19:02:46 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 19:02:48 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 19:02:50 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:02:50 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-28 19:02:50 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-04-28 19:02:50 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-04-28 19:02:51 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-04-28 19:04:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 19:04:47 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:04:48 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 19:04:48 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 19:04:48 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 19:04:48 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 19:04:48 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 19:04:48 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 19:04:49 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 19:04:49 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 19:04:49 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 19:04:50 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 19:04:52 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 19:04:53 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:04:53 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-28 19:04:54 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-04-28 19:04:54 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-04-28 19:04:55 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-04-28 19:05:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 19:05:40 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:05:40 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 19:05:41 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 19:05:41 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 19:05:41 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 19:05:41 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 19:05:41 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 19:05:41 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 19:05:42 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 19:05:42 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 19:05:42 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 19:05:44 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 19:05:46 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:05:46 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-28 19:05:46 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-04-28 19:05:46 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-04-28 19:05:47 INFO  TC002_LoginTest:34 - clicked on login button..
+2025-04-28 19:15:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 19:15:42 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:15:43 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 19:15:43 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 19:15:43 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 19:15:43 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 19:15:43 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 19:15:44 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 19:15:44 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 19:15:44 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 19:15:44 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 19:15:45 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 19:15:47 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 19:15:48 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:15:48 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-28 19:15:49 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-04-28 19:15:49 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-04-28 19:15:50 INFO  TC002_LoginTest:34 - clicked on login button..
+2025-04-28 19:27:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 19:27:25 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:27:26 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 19:27:26 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 19:27:26 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 19:27:26 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 19:27:26 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 19:27:26 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 19:27:27 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 19:27:27 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 19:27:27 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 19:27:28 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 19:27:30 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 19:27:31 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:27:31 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-28 19:27:32 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-04-28 19:27:32 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-04-28 19:27:32 INFO  TC002_LoginTest:34 - clicked on login button..
+2025-04-28 19:27:44 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:29:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121\grid-docker.xml
+
+2025-04-28 19:29:19 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest
+2025-04-28 19:29:19 INFO  TC001_AccountRegistrationTest:28 - Clicked on My Account 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:36 - Provided First Name 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:39 - Provided Last Name 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:43 - Provided Email 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:46 - Provided Telephone 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:49 - Provided Password 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:52 - Provided Confrmed Password 
+2025-04-28 19:29:20 INFO  TC001_AccountRegistrationTest:55 - Set Privacy Policy 
+2025-04-28 19:29:21 INFO  TC001_AccountRegistrationTest:58 - Clicked on Continue 
+2025-04-28 19:29:23 INFO  TC001_AccountRegistrationTest:70 - Finished TC_001_AccountRegistrationtTest
+2025-04-28 19:29:25 INFO  TC002_LoginTest:16 - **** Starting TC002_LoginTest ****
+2025-04-28 19:29:25 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-28 19:29:25 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-04-28 19:29:25 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-04-28 19:29:26 INFO  TC002_LoginTest:34 - clicked on login button..
+2025-04-28 19:29:38 INFO  TC001_AccountRegistrationTest:24 - Strating TC_001_AccountRegistrationtTest

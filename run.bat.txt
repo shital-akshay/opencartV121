@@ -1,0 +1,2 @@
+cd  C:\Users\shita\eclipse-workspace\Automation\MyWorkspaces\SeleniumWorkspaces\opencartV121
+mvn test
